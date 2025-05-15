@@ -1,0 +1,34 @@
+{
+    "client_server": "20.99.233.193",
+    "client_db": "Dynatrace_API",
+    "client_db_username": "analysisdev",
+    "client_db_password": "analysisdevadmin",
+    "client_table_name1": "Infrastructure_utilization",
+    "client_table_name2": "edgecollectormzsettings",
+    "driver": "{ODBC Driver 17 for SQL Server}",
+    "client_db_port": "1433",
+    "slack_token":  "xoxb-8727421949334-8738375058740-W4X442dqVIc9M6Nz4cqi032f",
+
+    "smtp_server": "smtp.gmail.com",
+    "port": 587,
+    "from_email": "ncgalertsystem@gmail.com",
+    "app_password": "vwtq ztza vgzl hyxp",
+    "zohoApp_password": "hmxrWuPDE6e3",
+
+    "thresholds": {
+        "cpu_thresholds": {
+            "warning": 85,
+            "critical": 95
+        },
+        "mem_thresholds": {
+            "warning": 85,
+            "critical": 95
+        },
+        "disk_thresholds": {
+            "warning": 15,
+            "critical": 5
+        }
+    }
+}
+
+

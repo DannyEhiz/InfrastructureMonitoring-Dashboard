@@ -1,0 +1,13 @@
+
+
+[theme]
+primaryColor="#b3f361"
+backgroundColor="#1b2627"
+secondaryBackgroundColor="#1e3d3d"
+textColor="#ffffff"
+
+[client]
+toolbarMode = "viewer"
+
+[server]
+headless = true
